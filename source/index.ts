@@ -1,3 +1,6 @@
+// @ts-ignore
+// @ts-ignore
+
 import {
   access,
   createWriteStream,
@@ -371,4 +374,4 @@ class Chromium {
   }
 }
 
-export = Chromium;
+export default Chromium;
